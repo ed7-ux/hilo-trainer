@@ -1,0 +1,9 @@
+Entrenador Hi-Lo (app instalable para Android)
+
+Cómo instalarla en tu Android
+1. Sube TODOS los archivos de esta carpeta a un hosting con HTTPS (gratis: GitHub Pages, Netlify o Cloudflare Pages).
+2. Abre la dirección en Chrome del celular.
+3. Menú de tres puntos > "Instalar app" (o "Añadir a la pantalla de inicio").
+Después funciona sin internet.
+
+Para abrirla sin hosting: el enlace de la versión web que te di en el chat también se puede añadir a la pantalla de inicio desde Chrome.
